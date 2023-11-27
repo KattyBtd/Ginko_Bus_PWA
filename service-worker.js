@@ -1,4 +1,5 @@
 const cacheName = "ginkobus-pwa-g1";
+
 const contentToCache = [
   "icons/icon-192.png",
   "icons/icon-512.png",

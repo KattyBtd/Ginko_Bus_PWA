@@ -23,10 +23,7 @@
     "start_url": "index.html",
     "background_color": "#000000",
     "display": "fullscreen",
-    "scope": "/",
     "theme_color": "orange",
-    "description": "Applications GinkoBus",
-    "theme_color": "orange"
-
+    "scope": "/"
   }
   
