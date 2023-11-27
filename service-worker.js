@@ -1,9 +1,9 @@
-const cacheName = "ginkobusu-pwa-g1";
+const cacheName = "ginkobus-pwa-g1";
 const contentToCache = [
   "icons/icon-192.png",
   "icons/icon-512.png",
   "icons/maskable_icon.png",
-  "manifest",
+  "manifest.json",
   "app.js",
   "index.html",
   "style.css",
