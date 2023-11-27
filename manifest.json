@@ -20,7 +20,7 @@
       }
       
     ],
-    "start_url": "index.html",
+    "start_url": "/index.html",
     "background_color": "#000000",
     "display": "fullscreen",
     "scope": "/",
